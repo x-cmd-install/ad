@@ -7,7 +7,7 @@ about:
   latestVersion: "0.4.0"
   latestRelease: "0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:56:00Z
+  collectedAt: 2026-09-09T18:50:36Z
 timeline:
   created: 2023-09-27
   lastCommit: 2026-08-24
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 739
   watcher: 11
-  fork: 29
+  fork: 30
   release: 7
   contributor: 11
-  pullRequest: 70
+  pullRequest: 71
   issue: 114
 language:
   Rust: 1215381
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 1
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 1
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 1
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 4
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-13
     release: 0
     mergedPR: 5
-    openPR: 0
+    openPR: 1
     closedIssue: 3
     openIssue: 0
     commit: 140
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-14
     release: 1
     mergedPR: 18
-    openPR: 1
+    openPR: 2
     closedIssue: 13
     openIssue: 0
     commit: 278
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-19
     release: 6
     mergedPR: 55
-    openPR: 1
+    openPR: 2
     closedIssue: 94
     openIssue: 1
     commit: 845
 total:
   release: 7
   mergedPR: 56
-  openPR: 1
+  openPR: 2
   closedIssue: 112
   openIssue: 2
   commit: 1213
 ---
 path: /home/runner/.x-repo/github.com/sminez/ad
-collectedAt: 2026-09-09T04:56:01Z
+collectedAt: 2026-09-09T18:50:37Z
 loc:
   Rust:
     code: 29786
