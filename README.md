@@ -12,6 +12,18 @@ an adaptable text editor
 x install ad
 ```
 
+## Code insight
+
+Total: **38,470** lines of code across **160** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 29,786 | 849 | 4,884 | 109 |
+| C | 2,815 | 1 | 22 | 1 |
+| Scheme | 2,753 | 136 | 566 | 22 |
+| Json | 1,275 | 0 | 0 | 3 |
+| Toml | 790 | 73 | 139 | 25 |
+
 ## Source
 
 - **Upstream**: <https://github.com/sminez/ad>
@@ -36,20 +48,20 @@ x install ad
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 2 |
 | 90d | 2026-06-12 | 0 | 2 | 0 | 0 | 0 | 5 |
+| last180d | 2026-03-14 | 0 | 6 | 0 | 3 | 0 | 141 |
 | 360d | 2025-09-15 | 1 | 18 | 1 | 13 | 0 | 279 |
+| last720d | 2024-09-20 | 6 | 56 | 1 | 94 | 1 | 845 |
 
-## Code size
+## Distribution status
 
-Total: **38,470** lines of code across **160** files in the top 5 languages.
+Reported by **9** distros on [repology.org](https://repology.org/project/ad). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 29,786 | 849 | 4,884 | 109 |
-| C | 2,815 | 1 | 22 | 1 |
-| Scheme | 2,753 | 136 | 566 | 22 |
-| Json | 1,275 | 0 | 0 | 3 |
-| Toml | 790 | 73 | 139 | 25 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.4.0` | ✅ latest |
+| Nix unstable | `0.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +72,4 @@ Install metadata for ad lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:34:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:19Z._
