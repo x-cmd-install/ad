@@ -4,7 +4,7 @@
 
 an adaptable text editor
 
-![ad](https://repo.x-cmd.io/ad.svg)
+[![x-cmd/install — ad Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ad.svg)](https://x-cmd.com/install/ad)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install ad
 
 ## Code insight
 
-Total: **38,405** lines of code across **162** files in the top 5 languages.
+Total: **38,502** lines of code across **162** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,721 | 852 | 4,868 | 111 |
+| Rust | 29,818 | 854 | 4,876 | 111 |
 | C | 2,815 | 1 | 22 | 1 |
 | Scheme | 2,753 | 136 | 566 | 22 |
 | Json | 1,275 | 0 | 0 | 3 |
@@ -33,26 +33,26 @@ Total: **38,405** lines of code across **162** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.4.0` (2025-12-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 739 · **Forks**: 30 · **Open issues**: 114 · **Contributors**: 12
+- **Stars**: 740 · **Forks**: 30 · **Open issues**: 114 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 58 · **Open PRs**: 1 · **Closed issues**: 112 · **Open issues**: 2 · **Commits**: 1223
+- **Releases**: 7 · **Merged PRs**: 58 · **Open PRs**: 1 · **Closed issues**: 112 · **Open issues**: 2 · **Commits**: 1225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-20 | 0 | 2 | 0 | 0 | 0 | 9 |
-| 90d | 2026-06-20 | 0 | 3 | 0 | 0 | 0 | 12 |
-| last180d | 2026-03-22 | 0 | 7 | 0 | 3 | 0 | 148 |
-| 360d | 2025-09-23 | 1 | 18 | 1 | 12 | 0 | 283 |
-| last720d | 2024-09-28 | 6 | 57 | 1 | 90 | 1 | 821 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 0 | 0 | 11 |
+| 90d | 2026-06-22 | 0 | 3 | 0 | 0 | 0 | 11 |
+| last180d | 2026-03-24 | 0 | 7 | 0 | 3 | 0 | 150 |
+| 360d | 2025-09-25 | 1 | 18 | 1 | 12 | 0 | 285 |
+| last720d | 2024-09-30 | 6 | 57 | 1 | 90 | 1 | 802 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ad lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:50:58Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:06:21Z._
