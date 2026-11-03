@@ -14,11 +14,11 @@ x install ad
 
 ## Code insight
 
-Total: **39,083** lines of code across **165** files in the top 5 languages.
+Total: **39,376** lines of code across **165** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 30,398 | 885 | 4,949 | 114 |
+| Rust | 30,691 | 893 | 4,992 | 114 |
 | C | 2,815 | 1 | 22 | 1 |
 | Scheme | 2,753 | 136 | 566 | 22 |
 | Json | 1,275 | 0 | 0 | 3 |
@@ -33,7 +33,7 @@ Total: **39,083** lines of code across **165** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.4.0` (2025-12-15)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **39,083** lines of code across **165** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 59 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 3 · **Commits**: 1247
+- **Releases**: 7 · **Merged PRs**: 59 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 3 · **Commits**: 1252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 1 | 0 | 2 | 1 | 21 |
-| last60d | 2026-09-03 | 0 | 3 | 0 | 2 | 1 | 31 |
-| 90d | 2026-08-04 | 0 | 3 | 0 | 2 | 1 | 32 |
-| last180d | 2026-05-06 | 0 | 4 | 0 | 2 | 1 | 43 |
-| 360d | 2025-11-07 | 1 | 17 | 1 | 14 | 1 | 268 |
-| last720d | 2024-11-12 | 4 | 53 | 1 | 76 | 2 | 701 |
+| 30d | 2026-10-04 | 0 | 1 | 0 | 2 | 1 | 26 |
+| last60d | 2026-09-04 | 0 | 3 | 0 | 2 | 1 | 36 |
+| 90d | 2026-08-05 | 0 | 3 | 0 | 2 | 1 | 37 |
+| last180d | 2026-05-07 | 0 | 4 | 0 | 2 | 1 | 48 |
+| 360d | 2025-11-08 | 1 | 17 | 1 | 14 | 1 | 273 |
+| last720d | 2024-11-13 | 4 | 52 | 1 | 76 | 2 | 706 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for ad lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:04:01Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:49:25Z._
