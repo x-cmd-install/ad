@@ -47,12 +47,12 @@ Total: **39,403** lines of code across **165** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 0 | 2 | 1 | 29 |
-| last60d | 2026-09-10 | 0 | 2 | 0 | 2 | 1 | 33 |
-| 90d | 2026-08-11 | 0 | 3 | 0 | 2 | 1 | 40 |
-| last180d | 2026-05-13 | 0 | 4 | 0 | 2 | 1 | 45 |
-| 360d | 2025-11-14 | 1 | 15 | 1 | 12 | 1 | 257 |
-| last720d | 2024-11-19 | 3 | 51 | 1 | 76 | 2 | 681 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 2 | 1 | 29 |
+| last60d | 2026-09-11 | 0 | 2 | 0 | 2 | 1 | 33 |
+| 90d | 2026-08-12 | 0 | 3 | 0 | 2 | 1 | 40 |
+| last180d | 2026-05-14 | 0 | 4 | 0 | 2 | 1 | 45 |
+| 360d | 2025-11-15 | 1 | 15 | 1 | 12 | 1 | 257 |
+| last720d | 2024-11-20 | 3 | 51 | 1 | 73 | 2 | 680 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for ad lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:21:55Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:29:08Z._
