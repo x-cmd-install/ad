@@ -37,7 +37,7 @@ Total: **37,572** lines of code across **162** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 753 · **Forks**: 31 · **Open issues**: 117 · **Contributors**: 12
+- **Stars**: 752 · **Forks**: 31 · **Open issues**: 117 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -47,21 +47,12 @@ Total: **37,572** lines of code across **162** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 2 | 0 | 2 | 0 | 60 |
-| last60d | 2026-09-26 | 0 | 2 | 0 | 2 | 1 | 60 |
-| 90d | 2026-08-27 | 0 | 4 | 0 | 2 | 1 | 70 |
-| last180d | 2026-05-29 | 0 | 5 | 0 | 2 | 1 | 75 |
-| 360d | 2025-11-30 | 1 | 14 | 0 | 12 | 1 | 273 |
-| last720d | 2024-12-05 | 3 | 51 | 0 | 70 | 2 | 687 |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/ad). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.0` | ✅ latest |
-| Nix unstable | `0.4.0` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 2 | 0 | 2 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 2 | 0 | 2 | 1 | 0 |
+| 90d | 2026-08-28 | 0 | 4 | 0 | 2 | 1 | 0 |
+| last180d | 2026-05-30 | 0 | 5 | 0 | 2 | 1 | 0 |
+| 360d | 2025-12-01 | 1 | 14 | 0 | 12 | 1 | 0 |
+| last720d | 2024-12-06 | 3 | 51 | 0 | 70 | 2 | 686 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for ad lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:55:37Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:18:09Z._
